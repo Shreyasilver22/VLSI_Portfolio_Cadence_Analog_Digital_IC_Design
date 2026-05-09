@@ -5,7 +5,7 @@ This repository contains a comprehensive portfolio documenting advanced concepts
 
 The full compiled document includes detailed schematics, pre- and post-layout extraction data, and hardware characterization graphs.
 
-**[📄 Click here to view the full PDF Portfolio](./Portfolio_VLSI(2).pdf)**
+**[📄 Click here to view the full PDF Portfolio](./Portfolio_VLSI_Final.pdf)**
 
 ## EDA Toolchain
 * **Cadence Virtuoso Suite**: Schematic entry, logic verification, custom layout, DRC, LVS, and RC parasitic extraction.
